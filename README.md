@@ -7,8 +7,3 @@ Hello World!
 
 !INCLUDE[Images](./Images.md)
 
-
-
-:smile:
-:angry:
-
