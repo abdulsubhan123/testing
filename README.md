@@ -9,4 +9,7 @@ Hello World!
 !INCLUDE[Images](./Images.md)
 
 
+!INCLUDE[card](./index.md)
+
+
 
