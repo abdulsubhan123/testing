@@ -986,3 +986,4 @@ See package Entity [package_solution](package.md#BKMK_package_solution) Many-To-
 <xref href="Microsoft.Dynamics.CRM.solution?text=solution EntityType" />
 
 
+[!INCLUDE[footer-include](./footer-banner.md)]
