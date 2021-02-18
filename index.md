@@ -1,4 +1,4 @@
-
+<!--
 title: Microsoft Power Apps documentation # < 60 chars
 summary: Learn how to quickly build low-code apps that modernize processes and solve tough business challenges in your organization using Power Apps.
 # brand: aspnet | azure | dotnet | dynamics | m365 | office | sql | windows | visual-studio | xamarin
@@ -39,3 +39,5 @@ highlightedContent:
     - title: Power Apps training on Microsoft Learn
       itemType: learn
       url: https://docs.microsoft.com/en-us/learn/browse/?products=power-apps
+      
+      -->
