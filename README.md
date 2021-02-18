@@ -17,6 +17,14 @@
 
 ---
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ---
 title: App Maker learning catalog
 description: Find all the training options for Power Apps
