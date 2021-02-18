@@ -39,8 +39,8 @@
 ```
 
 ---
-[!div class="mx-imgBorder"]
-    > ![Solutions area](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.idgesg.net%2Fimages%2Farticle%2F2018%2F10%2Ffree-wifi-secure-network-public-wifi_chain-links-100778416-large.jpg&imgrefurl=https%3A%2F%2Fwww.networkworld.com%2Farticle%2F3316567%2Fwhat-is-wpa3-wi-fi-security-protocol-strengthens-connections.html&tbnid=9FY2hq0IDoNgWM&vet=12ahUKEwjfpey9w_PuAhWDJHIKHXOLCMUQMygIegUIARDGAQ..i&docid=ILzeFdMhbT9BtM&w=1200&h=800&q=some%20images&client=ubuntu&ved=2ahUKEwjfpey9w_PuAhWDJHIKHXOLCMUQMygIegUIARDGAQ)
+
+![Solutions area](./wifi.jpg)
 
 ---
 
