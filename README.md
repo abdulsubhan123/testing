@@ -43,4 +43,4 @@
 !INCLUDE[footer-include](./footer.md)
 
 
-![indexfile](./index.yml)
+!INCLUDE[index-include](./index.yml)
