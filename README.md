@@ -1,6 +1,6 @@
 Hello World!
 
-![Heading](./Heading.md)
+![Heading-file](./Heading.md)
 
 
 *this is italic text*
