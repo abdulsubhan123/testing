@@ -3,19 +3,11 @@ Hello World!
 !INCLUDE[Heading-file](./Heading.md)
 
 
-*this is italic text*
-
-**this is bold text*
+!INCLUDE[Font-styles](./FontStyles.md)
 
 
+!INCLUDE[Images](./Images.md)
 
-:grinning:
-
- @icon-info-circle
-
-- hello 
-
-+ hello 1 
 
 ---
 ![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)
@@ -30,11 +22,6 @@ Hello World!
 @@ text in purple (and bold)@@
 ```
 
----
-
-![Solutions area](./wifi.jpg)
-
----
 
 !INCLUDE[footer-include](./footer.md)
 
