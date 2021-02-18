@@ -7,4 +7,4 @@
 :grinning:
 
 
-[!INCLUDE[footer-include](./footer-banner.md)]
+[!INCLUDE[footer-include](./footer.md)]
