@@ -25,7 +25,7 @@ A solution which contains CRM customizations.
 
 
 ## Messages
-###Messages
+### Messages
 
 |Message|Web API Operation|SDK Assembly|
 |-|-|-|
@@ -826,6 +826,13 @@ Same as solution entity [solution_parent_solution](solution.md#BKMK_solution_par
 
 
 ### <a name="BKMK_Solution_SyncErrors"></a> Solution_SyncErrors
+
+
+> [!NOTE]
+>Can you tell us about your documentation language preferences? [Take a short survey.](https://aka.ms/BAG_Docs_Language_Survey)
+>
+>The survey will take about seven minutes. No personal data is collected ([privacy statement](https://go.microsoft.com/fwlink/?LinkId=521839)).
+
 
 Same as syncerror entity [Solution_SyncErrors](syncerror.md#BKMK_Solution_SyncErrors) Many-To-One relationship.
 
