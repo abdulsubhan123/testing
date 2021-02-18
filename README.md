@@ -6,7 +6,7 @@
 
 :grinning:
 
- @ icon-info-circle
+ @icon-info-circle
 
 - hello 
 
