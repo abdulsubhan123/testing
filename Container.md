@@ -13,7 +13,7 @@ Hello World!
 cards
 ```
 
-!INCLUDE[yml-file](./src/tables/text.yml)
+!INCLUDE[yml-file](./src/text.yml)
       
 
 | Heading 1 | Heading 2 | Heading 3 |  
