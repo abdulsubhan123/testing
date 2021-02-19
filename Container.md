@@ -5,4 +5,4 @@ Hello World!
 
 !INCLUDE[Font-styles](./FontStyles.md)
 
-!INCLUDE[Images](./Images.m
+!INCLUDE[Images](./Images.md)
