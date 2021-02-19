@@ -6,10 +6,6 @@
 
 ![Images](/Images.md)
 
-<a href="./Images.md">Images</a>
-
-[facebook](https://www.facebook.com)
-
 [Tables](/src/tables/table.md)
 
 [Solutions](/src/studio/Solutions.md)
