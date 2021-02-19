@@ -1,19 +1,21 @@
 Hello World!
 
-!INCLUDE[Heading-file](./Heading.md)
+!INCLUDE[Heading-file](/Heading.md)
 
-!INCLUDE[Font-styles](./FontStyles.md)
+![Font-styles](/FontStyles.md)
 
-!INCLUDE[Images](./Images.md)
+!INCLUDE[Images](/Images.md)
 
 <a href="./Images.md">Images</a>
 
 <a  href="https://solitairevue.firebaseapp.com">Live Demo</a>
 
-!INCLUDE[Tables](./src/tables/table.md)
+[facebook](https://www.facebook.com)
+
+!INCLUDE[Tables](/src/tables/table.md)
 
 ``` html
 cards
 ```
 
-!INCLUDE[yml-file](./src/text.yml)
+!INCLUDE[yml-file](/src/text.yml)
