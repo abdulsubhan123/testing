@@ -1,9 +1,6 @@
-## Hello World
+## Studio
 
-this is from index
 
 ![documentation](./Container.md)
 
-
-![Cards](./src/Cards.md)
 
