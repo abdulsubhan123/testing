@@ -2,9 +2,9 @@
 
 Things you can do
 
-- [Create]
-- [Import]
-- [Export]
+- Create
+- Import
+- Export
 
 >Create a Solutions
 
@@ -19,5 +19,4 @@ You can manually export solutions using the steps in this article. We recommend 
 
 You can manually import solutions using the steps in this article. You must import only those solutions that you've obtained from a trusted source.
 
-
-Steps to Create Solutions
+![image](///digital.jpeg)
