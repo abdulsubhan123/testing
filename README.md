@@ -8,4 +8,4 @@ Added bullet text
 
 Added Blockquotes
 
-[Brief Documentation for creating a website from bunch of files](https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14)
+[Brief Documentation for creating a website from bunch of .md files](https://dev.to/bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-4e14)
