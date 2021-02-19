@@ -1,9 +1,9 @@
 Hello World!
 
 
-!INCLUDE[Heading-file](./Heading.md)
+![Heading-file](./Heading.md)
 
-!INCLUDE[Font-styles](./FontStyles.md)
+![Font-styles](./FontStyles.md)
 
-!INCLUDE[Images](./Images.md)
+![Images](./Images.md)
 
