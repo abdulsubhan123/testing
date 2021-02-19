@@ -4,7 +4,7 @@
 
 [Font-styles](/FontStyles.md)
 
-INCLUDE[Images](/Images.md)
+![Images](/Images.md)
 
 <a href="./Images.md">Images</a>
 
@@ -12,10 +12,10 @@ INCLUDE[Images](/Images.md)
 
 [facebook](https://www.facebook.com)
 
-!INCLUDE[Tables](/src/tables/table.md)
+[Tables](/src/tables/table.md)
 
-``` html
+``` 
 cards
 ```
 
-!INCLUDE[yml-file](/src/text.yml)
+[yml-file](/src/text.yml)
