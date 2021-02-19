@@ -1,10 +1,6 @@
 Hello World!
 
-this is from readme
+Added the tables and links 
 
-[![Heading-file](./Heading.md)]
-
-![Font-styles](./FontStyles.md)
-
-![Images](./Images.md)
+Added a sample table
 
