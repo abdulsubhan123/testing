@@ -6,6 +6,8 @@ Hello World!
 
 !INCLUDE[Images](./Images.md)
 
+<a href="./Images.md">Images</a>
+
 <a  href="https://solitairevue.firebaseapp.com">Live Demo</a>
 
 !INCLUDE[Tables](./src/tables/table.md)
