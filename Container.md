@@ -2,9 +2,9 @@
 
 [Heading-file](/Heading.md)
 
-![Font-styles](/FontStyles.md)
+[Font-styles](/FontStyles.md)
 
-!INCLUDE[Images](/Images.md)
+INCLUDE[Images](/Images.md)
 
 <a href="./Images.md">Images</a>
 
