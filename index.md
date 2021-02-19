@@ -3,5 +3,5 @@
 !INCLUDE[documentation](./Container.md)
 
 
-!INCLUDE[Cards](../Cards.md)
+!INCLUDE[Cards](./src/Cards.md)
 
