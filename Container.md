@@ -4,7 +4,7 @@
 
 [Font-styles](/FontStyles.md)
 
-[![Images](/Images.md)]
+![Images](/Images.md)
 
 <a href="./Images.md">Images</a>
 
