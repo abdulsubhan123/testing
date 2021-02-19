@@ -7,4 +7,5 @@ Hello World!
 
 ![Images](./Images.md)
 
-![Images](./src/tables/table.md)
+
+![Tables](./src/tables/table.md)
