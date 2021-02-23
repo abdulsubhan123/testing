@@ -15,3 +15,5 @@ cards
 ```
 
 [yml-file](/src/text.yml)
+
+:::note
